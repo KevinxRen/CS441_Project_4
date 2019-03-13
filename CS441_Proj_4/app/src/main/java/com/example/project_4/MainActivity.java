@@ -56,4 +56,15 @@ public class MainActivity extends AppCompatActivity {
     android:background="@drawable/ic_send_black_24dp"/>
     </LinearLayout>
 </LinearLayout>
+
+
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+    android:fillColor="#FF000000"
+    android:pathData="M2.01,21L23,12 2.01,3 2,10l15,2 -15,2z"/>
+</vector>
 }
