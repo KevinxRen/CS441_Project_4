@@ -3,7 +3,7 @@ package com.example.project_4;
 public class Message {
     private String text; // message body
     private MemberData memberData; // data of the user that sent this message
-    private boolean belongsToCurrentUser; // is this message sent by us?
+    private boolean belongsToCurrentUser;
 
     public Message(String text, MemberData memberData, boolean belongsToCurrentUser) {
         this.text = text;
